@@ -1,0 +1,28 @@
+
+
+Code for benchmarks
+
+For this competition, there are ten data sets. Each of the data sets was generated from a single prompt. Selected respones have an average length of 50 words per response. Some of the essays are dependent upon source information and others are not. All responses were written by students primarily in Grade 10. All responses were hand graded and were double-scored. Each of the eight data sets has its own unique characteristics. The variability is intended to test the limits of your scoring engine's capabilities.
+
+The training data is provided in a tab-separated value (TSV) file containing the following columns:
+
+    Id: A unique identifier for each individual student essay.
+    EssaySet: 1-10, an id for each set of essays.
+    Score1: The human rater's score for the answer. This is the final score for the answer and the score that you are trying to predict.
+    Score2: A second human rater's score for the answer. This is provided as a measure of reliability, but had no bearing on the score the essay received.
+    EssayText: The ascii text of a student's response.
+
+The private leaderboard set will not be released until August 30, 2012. The public leaderboard and private leaderboard files each have the following columns:
+
+    Id: A unique identifier for each individual student essay.
+    EssaySet: 1-10, an id for each set of answers.
+    EssayText: The ascii text of a student's response.
+
+The sample submission files have 2 columns:
+
+    essay_id: The id of the essay
+    predicted_score: This is the score output by your automated essay scoring engine for the essay
+
+In addition, a Microsoft Word 2010 Readme file describes each essay set. The Readme file contains the prompt that the essays in the data file were generated from. If applicable, the Readme file also includes the source information for essays that required students to read and respond to an excerpt.
+4 of the 10 data sets were transcribed, and may contain transcription errors. The instructions for transcribers are included in the Essay_Set_Descriptions.zip file.
+
