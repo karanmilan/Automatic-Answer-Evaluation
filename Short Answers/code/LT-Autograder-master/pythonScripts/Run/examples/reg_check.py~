@@ -1,0 +1,51 @@
+import collections, re
+
+import reg1,reg2
+import sys
+
+
+#To read all the inputs from the file
+reader = open('trains1.tsv', 'r' )
+SET = 1
+count1= 0
+counta=0
+exp = []
+exp=reg1.reg()
+exp2 =[]
+exp2=reg2.reg()
+for row in reader:
+	
+	line = row.split('\t')
+	print(line[0])
+	print(line[1])
+	print(line[2])
+	print(line[3])'''
+	if not line[1] == str(SET):  continue
+	s1 = int(line[2])
+	if s1>0: continue
+	Id = int(line[0])
+	text = line[4]
+	counta=counta+1
+	for reg in exp:
+		if(re.match(reg,text)):
+			print(reg)
+			print("\n")
+			print(Id)
+			print(text)
+			count1=count1+1
+			print('-----------------------------------------\n') 
+
+	for reg in exp:
+		if(re.match(reg,text)):
+			#print("\n")
+			#print(text)
+			#print("-----------------\n")
+			count1=count1+1;
+		
+	
+
+'''
+
+print (count1)
+print (counta)
+	

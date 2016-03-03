@@ -1,0 +1,23 @@
+import sys
+
+reader = open('train1.tsv', 'r' )
+
+
+SET = 1
+
+for row in reader:
+	line = row.split('\t')
+	if not line[1] == str(SET):  continue
+	Id = int(line[0])
+	s1 = int(line[3])
+	text = line[5]
+	line[2]=1
+	print('Id:\t%d' % Id)	
+	print ("\n") 
+	print ('Score:\t%d' % s1)
+	print ("\n")
+	print ('Text:\t%s' % text)
+	print ("\n")
+		
+
+

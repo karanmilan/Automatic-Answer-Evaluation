@@ -1,0 +1,698 @@
+Script started on Thursday 25 February 2016 11:09:11 PM IST
+]0;psycho@sleekbook: ~/Documents/Automatic -Answer-Evaluation/Short Answers/code/LT-Autograder-master/pythonScripts/Run/examplespsycho:@sleekbookexamples$ python final_reg.py 
+Some regex matched!
+Id:	39
+
+
+Score:	1
+
+
+Text:	They should add how much vinegar to add to each sample. For this lab to be more accurate they should have also added more trials as well as adding a constant variable such as a rock in just water.
+
+
+
+Some regex matched!
+Id:	55
+
+
+Score:	2
+
+
+Text:	The procedure needs to state the four types of samples it is using, (marbles, limestone, wood, plastic). You need to determine how much vinegar you are pouring into each cup. You need a set amount. You could also do the time at different times. So you could do it at is at 30 and at 45 minutes to see if there is a change at all in the mass over time.
+
+
+
+Some regex matched!
+Id:	63
+
+
+Score:	1
+
+
+Text:	You would need the name of the four samples you are using to make a table to record data. Write down you need to record the starting mass, ending mass and difference in mass.
+
+
+
+Some regex matched!
+Id:	98
+
+
+Score:	1
+
+
+Text:	They should have told the samples that was used. The second thing was the outcome, what happened to the differ.
+
+
+
+Some regex matched!
+Id:	107
+
+
+Score:	2
+
+
+Text:	You would need the size of the container, amount of vinegar used, the types of samples. Such as earth, wood, limestone, and plastic and how much of each to put in.
+
+
+
+Some regex matched!
+Id:	146
+
+
+Score:	3
+
+
+Text:	I would the amount of vinegar that should be put into each cup also should the containers be covered or not? It would be helpful to know what type of containers should the materials be put into.
+
+
+
+Some regex matched!
+Id:	147
+
+
+Score:	1
+
+
+Text:	I need to know how big the container is & how many of them.
+
+
+
+Some regex matched!
+Id:	198
+
+
+Score:	1
+
+
+Text:	Need to know how much vinigar to put in each container, how you are going to get the mass of the sample and how they are going to calculate the difference should be included in the students procedure.
+
+
+
+Some regex matched!
+Id:	207
+
+
+Score:	2
+
+
+Text:	I need to know how much vinegar. I need to pour on each of pour seperate, but dentical containers. I need to know what the four different samples are.
+
+
+
+Some regex matched!
+Id:	252
+
+
+Score:	3
+
+
+Text:	They need to state how much vinegar to pour in each container, what kind of samples to use and how much testing needs to be done after 24 hours.
+
+
+
+Some regex matched!
+Id:	255
+
+
+Score:	2
+
+
+Text:	The procedure should include what 4 samples they are testing. They need to include the ammount of vinegar in each up in metric format. The way of massing the sample should be clearer and should also explain that each sample should be massed sepparately.
+
+
+
+Some regex matched!
+Id:	270
+
+
+Score:	3
+
+
+Text:	The students need to include what the samples were. You can't do an experiment if you don't know what you're testing on. The students should also include the temp. that the containers were stored at for 24 hours. Lastly, they should include how much vinegar was poured into each container. They could've put the same amount or different amount. They could've put little or a lot.
+
+
+
+Some regex matched!
+Id:	282
+
+
+Score:	1
+
+
+Text:	This procedure should state the materials that they are using to gather the materials. First it has to say to put on their eye protection. It also needs to state how one would go about determining the mass of the four samples. Lastly, there needs to be a step on how to find the difference in the masses and to remind the reader to record their results.
+
+
+
+Some regex matched!
+Id:	291
+
+
+Score:	3
+
+
+Text:	First they should list the samples they used. Marble, limestone, wood and plastic in their procedure. They should also mention how much vinegar to pour on each sample to have the same effect. They should have also said to put their containers in same sort of cabinet, as a refrigerator, or somthing. Not just leaving it out of their processes.
+
+
+
+Some regex matched!
+Id:	302
+
+
+Score:	3
+
+
+Text:	I would need the amount of vinegar to put in each container. How long to rinse it in water (materials). And what kind of container casinial use.
+
+
+
+Some regex matched!
+Id:	327
+
+
+Score:	3
+
+
+Text:	How much vinegar you pour into the cups. What kind of vinegar you use.What kind of containers you should use.
+
+
+
+Some regex matched!
+Id:	342
+
+
+Score:	3
+
+
+Text:	How much vinegar would you pour in each cup. What temperature would the samples be in,would it be the same or would it be different? how would also need to know if they used the same size cup. These things are all very important information that wasn't included.
+
+
+
+Some regex matched!
+Id:	369
+
+
+Score:	2
+
+
+Text:	I would need how much vinegar im putting in the containers, what kind of  lime and plastic, like where it came from and what kind of temperature should the samples dry in.
+
+
+
+Some regex matched!
+Id:	393
+
+
+Score:	3
+
+
+Text:	You will need the type of vinegar and know the size of the sample. Also you ll need to know with how much water you have to rinse them.
+
+
+
+Some regex matched!
+Id:	434
+
+
+Score:	1
+
+
+Text:	I would write how much vinegar was put into each of the test tubes. Also I would repeat the experiment again to see if the information that I have is accurate and write why these is vinegar being added to each of the four samples.
+
+
+
+Some regex matched!
+Id:	496
+
+
+Score:	2
+
+
+Text:	The procedure should include what the four different samples are. At this point it is to vague and needs to be specified. The procedure should indicate how much vinegar needs to be poured on in each containers. The procedure should also encourage repetition. Human and equipment errors as always possible. Therefore it should give the readers an notion for the retests if necessary. Finally, the procedure does not include a control. This doesn't give the readers anything to compare the results.
+
+
+
+Some regex matched!
+Id:	557
+
+
+Score:	0
+
+
+Text:	The students need a list of material,also the students should write that we have to form a hypothesis.The students must also add that we have to form a conclusion at the end of the experiment.
+
+
+
+Some regex matched!
+Id:	611
+
+
+Score:	2
+
+
+Text:	You need to know how much vinegar to pour in you place the containers will change alittle.
+
+
+
+Some regex matched!
+Id:	620
+
+
+Score:	1
+
+
+Text:	The procedure never states what the samples are.It  needs to add the four samples marbles,limestone,wood and plastic into the first step.The procedure needs to state in the first step that the starting mass i) being measured and in the 6th step that the ending mass is being measured.The procedure also needs to add a step to tell the experimenter to determine the difference in mass from the starting and ending masses
+
+
+
+Some regex matched!
+Id:	632
+
+
+Score:	3
+
+
+Text:	To tell me what the samples are in the procedure. ^p How much vinegar to pour in the four containers. ^p Where and at what temperature are they putting them in.
+
+
+
+Some regex matched!
+Id:	672
+
+
+Score:	2
+
+
+Text:	It should say how much vinegar they use in each container, it should say in the procedure what the 4 samples are that they are using. Each sample of the material they were using should have the same starting mass and same amount of vinegar should be used in each.
+
+
+
+Some regex matched!
+Id:	683
+
+
+Score:	2
+
+
+Text:	How much vinegar is needed in each dish. What is the sample material. And how do you determine the mass.
+
+
+
+Some regex matched!
+Id:	719
+
+
+Score:	1
+
+
+Text:	I would write down how much vinegar they put in these 4 different example of mass. They didn't keep track of the experiment.^p They also didn't repeted the experiment again and I think thats one of the most important thing that everybody should do.
+
+
+
+Some regex matched!
+Id:	731
+
+
+Score:	2
+
+
+Text:	The students should state what the four different samples are, state how much vinigar should be used in each samples container. Also there should be safety procedures so that no one gets vinigar in their eye.
+
+
+
+Some regex matched!
+Id:	736
+
+
+Score:	1
+
+
+Text:	Pour the same amount of vinegar on all four. After you determine the mass of all four samples find out the different of each from first time you did it.
+
+
+
+Some regex matched!
+Id:	745
+
+
+Score:	2
+
+
+Text:	They should add how much vinegar to pour into the container, and how large the container must be as well. Another thing they might want to add is the concentration of vinegar that is poured in whether 100% or 50% or something alse to find mass you would also need to find volume.
+
+
+
+Some regex matched!
+Id:	747
+
+
+Score:	3
+
+
+Text:	You need to know how much vinegar to put in each container, what and of container to use and whether to react the samples or not.
+
+
+
+Some regex matched!
+Id:	749
+
+
+Score:	2
+
+
+Text:	They should say how much vinegar to pour into each individual container. They should also tell how much of the sample they need to pour into the labeled container. They need to tell the temperature at which the samples are kept at for 24 hours. Also the temperature at which the samples sit an dry for 30 minutes.
+
+
+
+Some regex matched!
+Id:	751
+
+
+Score:	2
+
+
+Text:	How much vinegar do you use for each cup of samples. They should have said how much water to rinse each sample with; Also could you try different liquids.
+
+
+
+Some regex matched!
+Id:	788
+
+
+Score:	3
+
+
+Text:	How much vinegar they aded into each container and how long do you rise each sample for, also the temperature the writer would be, Where the samples would be like in room temperature or in cold /hot areas.
+
+
+
+Some regex matched!
+Id:	806
+
+
+Score:	0
+
+
+Text:	They would need to state the four different samples that they are using. they also could have done different trials of the experiment, and they should put in the procedure to record the data that they got.
+
+
+
+Some regex matched!
+Id:	855
+
+
+Score:	2
+
+
+Text:	Some additional information how much vinegar do I pour into the cup. Wha sample materials are they useing. How do I find the mass of each sample that is the additional information that needs to be adde.
+
+
+
+Some regex matched!
+Id:	876
+
+
+Score:	1
+
+
+Text:	How much vinegar you will need to put in the container, what is the control variable, what's the dependent  and independent variable.
+
+
+
+Some regex matched!
+Id:	884
+
+
+Score:	2
+
+
+Text:	They need to tell how much vinegar they need in each container. They need to tell like where they will place the containers, if it has to be in warm place or room temperature. They have actually determine the mass.
+
+
+
+Some regex matched!
+Id:	890
+
+
+Score:	2
+
+
+Text:	What kind of containers?Big small? what are the samples? They don't tell us what they are they could be anything you don't know there rocks until you look at the data table.In this they say to place a sample of a material into a container and label. What sample? what material? What containers and what are we supposed to label? the sample or what is being put into?
+
+
+
+Some regex matched!
+Id:	965
+
+
+Score:	3
+
+
+Text:	I would need a list of materials and know what type of equipment to do this experiment on. I would also need to know the problem to this experiment. I would also need to know how much vinegar to put in to the containers and what size pieces is use to do this experiment.
+
+
+
+Some regex matched!
+Id:	992
+
+
+Score:	2
+
+
+Text:	How much vinegar to use. The temperature the experiment was conducted under. How much of such sample should be used.
+
+
+
+Some regex matched!
+Id:	993
+
+
+Score:	1
+
+
+Text:	Say the amount of vinegar put into each cup, how do you determine the mass ? And
+
+
+
+Some regex matched!
+Id:	994
+
+
+Score:	1
+
+
+Text:	How much vinegar do you pour in the four containers.
+
+
+
+Some regex matched!
+Id:	1040
+
+
+Score:	1
+
+
+Text:	How much vinegar should they put on each containers.
+
+
+
+Some regex matched!
+Id:	1084
+
+
+Score:	1
+
+
+Text:	First I would describe the materials I am using because in their procedure they only told us their putting vinegar in them they didn't say what.
+
+
+
+Some regex matched!
+Id:	1085
+
+
+Score:	0
+
+
+Text:	What type of marble, limestone, wood, and plastic did they used?
+
+
+
+Some regex matched!
+Id:	1274
+
+
+Score:	2
+
+
+Text:	Additional information needed is how much vinegar to use on each material. Also, good additional information would be to tell where they left the containers with the materials.
+
+
+
+Some regex matched!
+Id:	1298
+
+
+Score:	2
+
+
+Text:	I would need the size of the containers. How or what the temperature of the water that they used to rinse the samples.
+
+
+
+Some regex matched!
+Id:	1314
+
+
+Score:	2
+
+
+Text:	You need to know how much vinegar to add to the containers. You need to know what kind of container and you also need to know how to measure the samples.
+
+
+
+Some regex matched!
+Id:	1317
+
+
+Score:	1
+
+
+Text:	With step number two how much vinegar should you pour? ^p With step number three what sample  goes with what container?
+
+
+
+Some regex matched!
+Id:	1332
+
+
+Score:	2
+
+
+Text:	How much vinegar to pour in, how much big are the containers, and which type of scale would i use?
+
+
+
+Some regex matched!
+Id:	1334
+
+
+Score:	1
+
+
+Text:	For step two how much vinegar do you pour in? ^p For step four how do you remove the samples from the containers? ^p For step three what do you label the container?
+
+
+
+Some regex matched!
+Id:	1391
+
+
+Score:	2
+
+
+Text:	How much vinegar are whe poring? How long are we rinsing them?
+
+
+
+Some regex matched!
+Id:	1453
+
+
+Score:	1
+
+
+Text:	The group was missing how much vinegar they used. More trials for each material would improve this lab.
+
+
+
+Some regex matched!
+Id:	1454
+
+
+Score:	1
+
+
+Text:	How much vinegar do you put in the cups ?
+
+
+
+Some regex matched!
+Id:	1455
+
+
+Score:	2
+
+
+Text:	They should describe what the samples are, how much vinegar do you put in each container.
+
+
+
+Some regex matched!
+Id:	1490
+
+
+Score:	2
+
+
+Text:	The students could state how much vinegar is needed in each container, explaining weather the sample needs to be submersed compleatly or not.
+
+
+
+Some regex matched!
+Id:	1504
+
+
+Score:	1
+
+
+Text:	You need the type of materials needed, the amount of materials in order to mix the samples and have steps in two different steps inorder to understand it.
+
+
+
+Some regex matched!
+Id:	1516
+
+
+Score:	1
+
+
+Text:	You would need the names of the samples you were using.
+
+
+
+Some regex matched!
+Id:	1525
+
+
+Score:	3
+
+
+Text:	I would include what the samples are (wood, marble etc) and would label the containers that way. I would include the brand of vinegar or kind of vinegar used. I would also include at what temperatures the samples were kept at.
+
+
+
+Some regex matched!
+Id:	1530
+
+
+Score:	2
+
+
+Text:	The amount of vinegar stated in procedure # z. ^p The type of container for each substance. ^p How much distilled water you would need to rinse
+
+
+
+Some regex matched!
+Id:	1641
+
+
+Score:	2
+
+
+Text:	First you would name the four distrant substances, say the size of the container also how much of each substance in each container should be specified. Overall this experiment needs to be more spesific and valid for this lab to be repeated
+
+
+
+]0;psycho@sleekbook: ~/Documents/Automatic -Answer-Evaluation/Short Answers/code/LT-Autograder-master/pythonScripts/Run/examplespsycho:@sleekbookexamples$ exit
+
+Script done on Thursday 25 February 2016 11:09:16 PM IST

@@ -1,0 +1,25 @@
+re.compile('(\\w+ ){0,30}((how long)|(long)|(amount of time)|(time taken)) (\\w* ){0,10}((rins)?((ed)|(e)))(\\w* ){0,4}\\w*')
+
+
+788
+How much vinegar they aded into each container and how long do you rise each sample for, also the temperature the writer would be, Where the samples would be like in room temperature or in cold /hot areas.
+
+-----------------------------------------
+
+re.compile('(\\w+ ){0,30}((how long)|(long)|(amount of time)|(time taken)) (\\w* ){0,10}((rins)?((ed)|(e)))(\\w* ){0,4}\\w*')
+
+
+864
+The additional information I would need would be how much vinegar to pour into each container also how long it rinse after the 24 hours, and a problem statement said also be necessary.
+
+-----------------------------------------
+
+re.compile('(\\w+ ){0,30}((how long)|(long)|(amount of time)|(time taken)) (\\w* ){0,10}((rins)?((ed)|(e)))(\\w* ){0,4}\\w*')
+
+
+921
+I think that they needed to u the time on the box using all the other sample and show how long it stand there threw are where experiment.
+
+-----------------------------------------
+
+3

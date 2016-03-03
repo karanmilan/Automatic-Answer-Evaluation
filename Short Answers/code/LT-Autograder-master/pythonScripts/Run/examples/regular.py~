@@ -1,0 +1,34 @@
+import collections, re
+
+pats=[]
+pats.append( re.compile(r"(\w+ ){0,100}((what)|(which)|(type of)|(conditions)) (\w* ){0,10}((drying)|(dry))\w*") )
+#pats.append( re.compile(r"(\w+ ){0,30}((size)|(surface area)|) (\w* ){0,4}((material)|(materials)|(sample)|(samples)|(element)|(elements)|(cup)|(cups))\w*") )
+#pats.append( re.compile(r"(\w+ ){0,30}((what)|(wat)|(which)|(wich)|(type of)|(kind of)|(name of)) (\w* ){0,4}((materia)?((l)|(s)))|((sampl)?((es)|(e)))(\w* ){0,4}(test)\w*") )
+#pats.append( re.compile(r"(\w+ ){0,30}((type)|(kind)|(variety)|(brand)|(form)) (\w* ){0,4}((vinegar)|(vinigar)|(liquid))\w*") )
+#pats.append( re.compile(r"(\w+ ){0,4}((how much)|(quantity)|(measur)?((ement)|(ing)|(e))|(amount)|(mass)) (\w* ){0,4}((vinegar)|(vinigar)|(liquid))\w*") )
+
+
+text="The additional information I would need would be how much vinegar to pour into each container also how long it rinse after the 24 hours, and a problem statement said also be necessary."
+
+text1 = "type of drying method used	" 
+text4=""
+text2 = "Hey, how long do you think it should take to rinse"
+text5="the type of sample"
+text6="the size of elements"
+
+
+for reg in pats:
+
+	if(re.match(reg,text)):
+		print("matched text\n")
+
+	if(re.match(reg,text1)):
+		print("matched text1\n")
+	if(re.match(reg,text2)):
+		print("matched text2\n")
+	if(re.match(reg,text4)):
+		print("matched text4\n")
+	if(re.match(reg,text5)):
+		print("matched text5\n")
+	if(re.match(reg,text6)):
+		print("matched text6\n")
